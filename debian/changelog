@@ -1,3 +1,10 @@
+libjs-extjs3 (3.4.0+svn161-0aurex1) precise; urgency=low
+
+  * Upstream snapshot based on 'trunk' revision 161 (2012-10-12)
+  * Rebuild for aurex 12.04
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Fri, 12 Oct 2012 11:29:14 +0200
+
 libjs-extjs3 (3.4.0) stable; urgency=low
 
   * New upstream release
